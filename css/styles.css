@@ -1,9 +1,17 @@
 body {
     font-family: Roboto, verdama,  sans-serif;
     color: #2E2F42;
+    background-color: #FFFFFF;
 
 }
-.span {
+.accent {
+font-family: Raleway;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16;
+letter-spacing: 3%;
+
+
     color: #4D5AE5;
 }
 .logo {
@@ -12,8 +20,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 1.16;
 letter-spacing: 3%;
-vertical-align: middle;
-text-transform: uppercase;
+
 
     color: #2E2F42;
 }
@@ -28,19 +35,99 @@ text-transform: uppercase;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 2%;
+    color: #434455;
     }
     .hero-title {
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 2%;
-text-align: center;
+color: #FFFFFF;
+
 }
+.hero {
+    background-color: #2E2F42;
+}
+
 .hero-button {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 4%;
-vertical-align: middle;
+}
 
+.feature-item {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 2%;
+
+
+}
+.feature-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;
+
+}
+
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+letter-spacing: 2%;
+
+}
+.team-section {
+    background-color: #F4F4FD;
+}
+.team {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;
+    
+}
+.team-member {
+
+font-weight: 500;
+font-size: 20px;
+line-height: 1.5;
+letter-spacing: 2%;
+
+}
+.portfolio-title {    
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+letter-spacing: 2%;
+
+}
+.portfolio {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;
+
+}
+.portfolio-item {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 2%;
+
+}
+footer {
+    background-color: #2E2F42;
+}
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;
+color: #E7E9FC;
+}
+.studio {
+    color: #F4F4FD;
 }
